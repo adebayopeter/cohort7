@@ -1,16 +1,8 @@
-# This is a sample Python script.
+# *** Make that git is installed on your system
+# 1. Clone repository
+# cd /Developments/python/>git clone https://github.com/adebayopeter/pora-ml-cohort7.git
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+# 2. git pull origin main
 
+# 3. git checkout -b feature/unit-test
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/

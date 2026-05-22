@@ -35,3 +35,23 @@ git clone https://github.com/adebayopeter/cohort7.git
 Pora Academy ML Cohort 7
 Email: mlcohort7@poraacademy.org
 GitHub: https://github.com/adebayopeter/cohort7.git
+
+
+ABCD...Z
+
+Adebayo - ABCDEF
+Josephine - GHIJKL
+Aluko - MNOPQRS
+
+git clone project
+Adebayo - ABCDEFGHIJKL
+Josephine - ABCDEFGHIJKL (git push origin main)
+Aluko - ABCDEFMNOPQRS (git push origin main)
+
+ABCDEFGHIJKL
+ABCDEFMNOPQRS
+ main - ABCDEFGHIJKLMNOPQRS
+
+git pull
+ABCDEFGHIJKLMNOPQRS
+ABCDEFGHIJKLMNOPQRS
